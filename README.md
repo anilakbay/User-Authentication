@@ -1,0 +1,1 @@
+This project is a user authentication application built with Node.js, Express.js, and MongoDB. It uses bcrypt.js for password encryption and express-session or JWT for session management. Secure login, registration processes, and database management are handled with Mongoose.
